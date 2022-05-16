@@ -1,3 +1,13 @@
-/*img{
-    background-color: black;
-}*/
+.top-naw-bar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.white-line {
+    border-bottom: 3px solid var(--main-text-color);
+}
+ .logo{
+     margin-top: 30px;
+     margin-bottom: 30px;
+ }
