@@ -56,12 +56,37 @@ p{
     font-family: sans-serif;
 }
 
-link.btns{
+a{
+    color: var(--main-text-color);
+}
+a:hover{
+    color: var(--main-text-color);
+}
+
+.link-btn-light{
     text-decoration: none;
     background-color: var(--title-color);
     padding: 10px 20px;
     color: var(--main-text-color);
     font-size: 18px;
     font-family: sans-serif;
-    border-radius: 30px;
+}
+
+.link-btn-light:hover{
+    background-color: var(--main-text-color);
+    color: var(--background-color);
+}
+
+.link-btn-dark{
+    text-decoration: none;
+    background-color: var(--background-color);
+    padding: 10px 20px;
+    color: var(--main-text-color);
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.link-btn-dark:hover{
+    background-color:var(--main-text-color) ;
+    color: var(--background-color);
 }
