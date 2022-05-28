@@ -1,0 +1,25 @@
+.group-programs {
+    margin: 0px 20px 50px 20px;
+}
+
+.group-programs_div {
+    
+    background-size: cover;
+    background-position: center;
+}
+
+.group-programs_crossfit {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)), url("../img/crossfit.jpg");
+}
+
+.group-programs_runclass {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)), url("../img/runclass.jpg");
+}
+
+.group-programs_box {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)), url("../img/box.jpg");
+}
+
+.group-programs_box4child {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)), url("../img/kids-box.jpg");
+}
