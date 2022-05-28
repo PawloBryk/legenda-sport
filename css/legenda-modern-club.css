@@ -1,0 +1,14 @@
+.modern-club{
+    margin: 100px 40px 80px 20px;
+}
+
+.modern_legenga-title{
+margin-bottom: 60px;
+}
+
+.modern_just-line{
+    border-top: 4px solid var(--title-color);
+    margin-top: 60px;
+    margin-bottom: 20px;
+    margin-right: 50%;
+}
