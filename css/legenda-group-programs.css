@@ -39,3 +39,9 @@
 .link-btn-light{
     margin-top: 40px;
 }
+
+.group-programs_allSection_btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

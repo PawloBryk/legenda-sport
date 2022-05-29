@@ -1,0 +1,18 @@
+.purchase-abonement{
+    margin: 0 20px 50px 20px;
+}
+
+.purchase-abonement-p{
+margin-top: 30px;
+margin-bottom: -10px;
+}
+
+.purchase-abonement-btn{
+    display: flex;
+    justify-content: center;
+}
+
+.purchase-abonement-img{
+    width: 100%;
+    margin-top: 30px;
+}
