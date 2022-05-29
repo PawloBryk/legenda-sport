@@ -2,24 +2,40 @@
     margin: 0px 20px 50px 20px;
 }
 
-.group-programs_div {
-    
-    background-size: cover;
-    background-position: center;
+.group-programs_div{
+    height: 420px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
 }
 
 .group-programs_crossfit {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)), url("../img/crossfit.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)), url("../img/crossfit.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .group-programs_runclass {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)), url("../img/runclass.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)), url("../img/runclass.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .group-programs_box {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)), url("../img/box.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)), url("../img/box.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .group-programs_box4child {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)), url("../img/kids-box.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)), url("../img/kids-box.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.link-btn-light{
+    margin-top: 40px;
 }
